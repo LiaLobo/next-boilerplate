@@ -15,7 +15,7 @@
     "generate": "plop --plopfile generators/plopfile.js"
   },
   "dependencies": {
-    "@types/node": "20.3.1",
+    "@types/node": "20.6.5",
     "@types/react": "18.2.12",
     "@types/react-dom": "18.2.5",
     "@types/styled-components": "^5.1.26",
